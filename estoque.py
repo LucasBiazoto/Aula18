@@ -9,7 +9,7 @@ def conectar_banco():
     return mysql.connector.connect(
         host='127.0.0.1',
         user='root',
-        password='Toronto01#',
+        password='xxxxxxx',
         database='loja1'   # Certifique-se que está usando 'loja1'
     )
 
